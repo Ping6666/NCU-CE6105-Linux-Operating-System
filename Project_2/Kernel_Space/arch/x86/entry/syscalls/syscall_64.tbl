@@ -1,0 +1,2 @@
+# add a line before x32 block for non-x32 use
+333	common	get_phy_addr	sys_get_phy_addr
