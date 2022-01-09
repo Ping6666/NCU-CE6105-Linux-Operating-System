@@ -1,0 +1,2 @@
+# add a line before x32 block for non-x32 use
+333	common	pass_kernel_data	sys_pass_kernel_data
