@@ -1,0 +1,3 @@
+# add lines before x32 block for non-x32 use
+333	common	getnum_context_switches sys_getnum_context_switches
+334	common	getnum_wait_queue   sys_getnum_wait_queue
