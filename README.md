@@ -124,5 +124,5 @@ reboot
 
 ## License
 
-plz follow MIT License
+plz follow MIT License \
 within Linux need to follow its License (GPL-2.0)
